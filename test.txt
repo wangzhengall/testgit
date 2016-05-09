@@ -1,1 +1,3 @@
-hello git这是我的第一个git文件
+hello git这是我的第一个git文
+件
+哎呀 快放学了好开心啊!
